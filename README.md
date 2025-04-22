@@ -1,4 +1,5 @@
-# Astro Starter Kit: Blog
+https://www.youtube.com/watch?v=rUk6DvDKKMQ&list=PLg6ejNU_Ue71-oqLOZXbgTSwnBWKC_l6P&pp=gAQB8AUB0gcJCV8EOCosWNin 
+ # Astro Starter Kit: Blog
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/mitros1973astronaut)
 
